@@ -1,0 +1,44 @@
+{
+  "destinos": [
+    {
+      "id": "1",
+      "titulo": "PRAGA",
+      "descripcion": "Praga, la capital de la República Checa, es conocida por sus impresionantes edificios de estilo barroco y neoclásico. La ciudad ofrece una abundante vida cultural, desde teatro, música y danza hasta arte y literatura. Praga también es famosa por sus antiguas tradiciones y festivales.",
+      "descripcion2": "Praga, la capital de la República Checa, es conocida por sus impresionantes edificios de estilo barroco y neoclásico. La ciudad ofrece una abundante vida cultural, desde teatro, música y danza hasta arte y literatura. Praga también es famosa por sus antiguas tradiciones y festivales, además de sus animadas plazas llenas de bares y restaurantes. Los amantes de la cultura disfrutarán de la belleza de los edificios históricos, como el Castillo de Praga y la Catedral de San Vito. Los visitantes también podrán disfrutar de actividades al aire libre, como senderismo, montañismo y ciclismo. ",
+      "imagen_corta": "https://images.pexels.com/photos/2588956/pexels-photo-2588956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "imagen_larga": "https://images.pexels.com/photos/753337/pexels-photo-753337.jpeg"
+    },
+    {
+      "id": "2",
+      "titulo": "VANCOUVER",
+      "descripcion": "Vancouver, Canadá, es una ciudad moderna y cosmopolita con una vibrante vida cultural y mucho que ofrecer. Está ubicada en la costa del Pacífico y es conocida por sus impresionantes paisajes, desde montañas cubiertas de bosques hasta imponentes playas. ",
+      "descripcion2": "Vancouver, Canadá, es una ciudad moderna y cosmopolita con una vibrante vida cultural y mucho que ofrecer. Está ubicada en la costa del Pacífico y es conocida por sus impresionantes paisajes, desde montañas cubiertas de bosques hasta imponentes playas. La ciudad también cuenta con excelentes restaurantes, galerías de arte, museos y parques. La vida nocturna es vibrante, con numerosos bares, clubes y teatros. Los visitantes también podrán disfrutar de actividades al aire libre, como senderismo, kayak, ciclismo y esquí.  ",
+      "imagen_corta": "https://images.pexels.com/photos/2096700/pexels-photo-2096700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "imagen_larga": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "3",
+      "titulo": "BUENOS AIRES",
+      "descripcion": "Buenos Aires, Argentina, es una ciudad cosmopolita y vibrante con una rica historia y cultura. La ciudad es conocida por sus numerosos museos, galerías de arte y teatros, así como por sus animados bares y restaurantes. ",
+      "descripcion2": "Buenos Aires, la capital argentina, es una ciudad vibrante de contrastes. Por un lado, está el atractivo paisaje moderno de grandes edificios, avenidas pintorescas y una gran variedad de restaurantes y bares. Por otro lado, la ciudad también ofrece una amplia cultura y tradiciones, como la tango, el folklore y la comida criolla. Los visitantes disfrutarán de sus monumentos históricos, como el Teatro Colón, el Obelisco y el Cabildo. Los amantes de la naturaleza también disfrutarán de sus numerosos parques y jardines ",
+      "imagen_corta": "https://images.pexels.com/photos/13664798/pexels-photo-13664798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "imagen_larga": "https://images.pexels.com/photos/14401404/pexels-photo-14401404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "4",
+      "titulo": "SEUL",
+      "descripcion": "Seúl, la capital de Corea del Sur, es una ciudad moderna y cosmopolita con una vibrante vida cultural y mucho que ofrecer. Está ubicada en la costa del Pacífico y es conocida por sus impresionantes paisajes, desde montañas cubiertas de bosques hasta imponentes playas. ",
+      "descripcion2": "Seúl, la capital de Corea del Sur, es una ciudad moderna y cosmopolita con una vibrante vida cultural y mucho que ofrecer. Está ubicada en la costa del Pacífico y es conocida por sus impresionantes paisajes, desde montañas cubiertas de bosques hasta imponentes playas. La ciudad también cuenta con excelentes restaurantes, galerías de arte, museos y parques. La vida nocturna es vibrante, con numerosos bares, clubes y teatros. Los visitantes también podrán disfrutar de actividades al aire libre, como senderismo, kayak, ciclismo y esquí.  ",
+      "imagen_corta": "https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "imagen_larga": "https://images.pexels.com/photos/6178650/pexels-photo-6178650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "5",
+      "titulo": "EL CAIRO",
+      "descripcion": "El Cairo es la capital de Egipto y una de las ciudades más antiguas del mundo. Está ubicada a orillas del río Nilo y se extiende a lo largo de ambas orillas del río. El Cairo es una ciudad vibrante y cosmopolita con una amplia cultura y tradiciones. ",
+      "descripcion2": "El Cairo es la capital de Egipto y una de las ciudades más antiguas del mundo. Está ubicada a orillas del río Nilo y se extiende a lo largo de ambas orillas del río. El Cairo es una ciudad vibrante y cosmopolita con una amplia cultura y tradiciones. La ciudad cuenta con numerosos museos, galerías de arte y teatros, así como con animados bares y restaurantes. Los visitantes también podrán disfrutar de actividades al aire libre, como senderismo, kayak, ciclismo y esquí. ",
+      "imagen_corta": "https://images.pexels.com/photos/7566890/pexels-photo-7566890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "imagen_larga": "https://images.pexels.com/photos/10586819/pexels-photo-10586819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
