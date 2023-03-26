@@ -1,0 +1,126 @@
+.fondo {
+  position: absolute;
+  background-color: #b18603;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.Head {
+  color: #000000;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+.tituloHome {
+
+  text-align: left;
+  font-family: Arial Black;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(251, 234, 88);
+  text-shadow: 0 1px 0 rgb(186, 60, 60),
+    0 2px 0 rgb(237, 74, 19),
+    0 3px 0 rgb(218, 135, 12),
+    0 4px 0 rgb(147, 123, 26),
+    0 5px 0 #aa9d0c,
+    0 6px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3),
+    0 3px 5px rgba(0, 0, 0, 0.2),
+    0 5px 10px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.2),
+    0 20px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.nombreCasa {
+  text-align: left;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 30px;
+  color: #EBD758;
+  text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68, 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+}
+
+.tituloId {
+  text-align: left;
+  font-family: Arial;
+  font-size: 30px;
+  COLOR: #df6ab8;
+  text-shadow: 0px 0px 9px #b4548f;
+}
+
+.tituloId2 {
+  text-align: left;
+  font-family: Arial;
+  font-size: 30px;
+  COLOR: #690b97;
+  text-shadow: 0px 0px 9px #9e2bd3;
+}
+
+.contenedor {
+  padding-left: 5%;
+}
+
+.tituloMagos {
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 30px;
+  color: #EBD758;
+  text-shadow: -1px 0 #414D68,
+    0 1px #414D68,
+    1px 0 #414D68,
+    0 -1px #414D68,
+    -2px 2px 0 #414D68,
+    2px 2px 0 #414D68,
+    1px 1px #414D68,
+    2px 2px #414D68,
+    3px 3px #414D68,
+    4px 4px #414D68,
+    5px 5px #414D68,
+    6px 6px #414D68,
+    7px 7px #414D68,
+    8px 8px #414D68,
+    9px 9px #414D68;
+}
+
+.nombreMagos {
+  text-align: center;
+  font-family: Arial Black;
+  font-weight: bold;
+  font-size: 10px;
+  background: #202020;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0px 3px 3px rgba(17, 171, 214, 0.481),
+    0px -1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.linkElixir {
+  text-align: left;
+  font-family: Arial;
+  font-size: 10px;
+  COLOR: #690b97;
+  text-shadow: 0px 0px 9px #9e2bd3;
+}
+
+.fondoMago {
+  position: absolute;
+  background-color: #866080;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  border-style: double;
+  padding-left: 2%;
+}
