@@ -1,0 +1,183 @@
+.inicio {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background: #252529;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.conjunto {
+  position: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.boton {
+  width: 400px;
+  height: 80px;
+  border-radius: 15px;
+  background: #ccc;
+  ;
+  outline: none;
+  border-color: #b2c112;
+  color: white;
+  font-size: 2rem;
+}
+
+.boton:hover {
+  background: #b2c112;
+}
+
+.boton:active {
+  background: #f3ff6b;
+}
+
+.input {
+  outline: 0;
+  width: 60vw;
+  margin: 10px 0;
+  height: 80px;
+  padding: 5px;
+  padding-left: 20px;
+  border-style: none;
+  border-radius: 5px;
+  background: rgba(138, 138, 138, .4);
+  font-size: 3.5rem;
+  color: #fff;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.numeroRomano {
+  color: #252529;
+  font-size: 50px;
+}
+
+.object-list-container {
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pelicula-list-container {
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.object-item {
+  background-color: #ccc;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+  width: 50%;
+}
+
+.pelicula-item {
+  background-color: #ccc;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+  width: 50%;
+
+}
+
+.object-item h2 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.object-info p {
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+}
+
+.bottonVolver {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 20px;
+  height: 40px;
+  width: 100px;
+  background-color: #ccc;
+  font-size: 16px;
+  border-radius: 6px;
+
+}
+
+.bottonVolver:hover {
+  background-color: rgb(60, 55, 55);
+}
+
+.totalCount {
+  display: flex;
+  justify-content: center;
+  margin-top: 7%;
+
+  font-family: Arial Black;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(158, 155, 155);
+  text-shadow: 0 1px 0 rgb(221, 221, 221),
+    0 2px 0 #ccc,
+    0 3px 0 #bbb,
+    0 4px 0 #aaa,
+    0 5px 0 #acacac,
+    0 6px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3),
+    0 3px 5px rgba(0, 0, 0, 0.2),
+    0 5px 10px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.2),
+    0 20px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.container-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #ccc;
+  border: 1px solid rgb(16, 15, 15);
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: flex;
+  align-items: center;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+label span {
+  margin-left: 10px;
+}
+
+.fondoSwapi {
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png");
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
